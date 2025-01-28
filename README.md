@@ -1,21 +1,22 @@
 # InformSupply: Integrating Knowledge Graphs with Traditional BI Tools
 Master's Consultancy Project
 
-# Project Overview**
+# Project Overview
+---
 
 ## This consultancy project, undertaken as part of my Master’s program, involved collaborating with **InformSupply**, an organization focused on revolutionizing business data management through knowledge graph technology. The goal was to bridge the gap between knowledge graphs and traditional business intelligence (BI) tools like Power BI. By transforming RDF data into a star schema, the project enabled seamless integration and advanced data analysis through both networked visualizations and traditional BI dashboards.
 ---
 
 ## Key Findings 
 The integration of traditional performance metrics with relationship-driven network graphs within a single dashboard provided users with a unified view of data, uncovering deeper insights and connections that are often overlooked in conventional analysis.
-
+--
 ## Key Features
 - **RDF Data Transformation**: Converted RDF data into a star schema format, enabling alignment with relational database structures and optimized compatibility with BI tools.
 - **Power BI Integration**: Explored multiple integration methods, ultimately selecting CSV export from GraphDB for its simplicity and performance benefits.
 - **Interactive Dashboards**: Developed two interactive dashboards—one utilizing ZoomCharts and the other employing Python NetworkX—to display both traditional and networked graph visuals side by side.
 - **Visualization Methods Comparison**: Analyzed the strengths and limitations of various visualization tools, including ZoomCharts, NetworkX, and GraphDB’s built-in graph visuals.
 - **User Interaction Testing**: Conducted comprehensive usability testing to validate dashboard effectiveness. Feedback revealed that users appreciated the simplicity of traditional charts for basic queries and the depth of network graphs for exploring complex relationships.
-
+--
 ## Project Posters and Brochure for Expo
 - [Technical Poster](https://github.com/SherylPhilip/InformSupply-Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/InformSupply%20Project%20Poster_finalised_2024.10.09.pdf)
 - [Emotional Poster](https://github.com/SherylPhilip/InformSupply-Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/Emotional%20Infograph%20-%20InformSupply_2024.10.09.pdf)
@@ -76,11 +77,11 @@ As the Quality Manager, I ensured the project adhered to high standards across a
  ![403741708-ca1c930d-1004-47f0-9875-69afdf248d8f](https://github.com/user-attachments/assets/d93b6072-dede-45e4-be51-f0e187555211)
 
 
-5. **Dashboard Design for NetworkX Visualizations**:
+5. **Dashboard Design for NetworkX Visualizations(My Contributions)**:
    - Built the Power BI dashboard, including four report pages integrating traditional and networked graph visuals using Networkx.
    - Dashboard demo video.
      
-     [![Watch the video](https://youtu.be/0tWV6iNT5uw?si=LpQ74RMXMau5pGMV)
+   https://www.youtube.com/watch?v=0tWV6iNT5uw&t=25s
      
      Click the image above to watch the project demo on YouTube.
 
