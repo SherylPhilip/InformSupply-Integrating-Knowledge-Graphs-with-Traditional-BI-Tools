@@ -62,21 +62,26 @@ As the Quality Manager, I ensured the project adhered to high standards across a
      - Python Script Wrapping SPARQL Queries. <br/>
        Documented the process in [Python Script Wrapping the SPARQL query.ipynb](https://github.com/SherylPhilip/InformSupply-Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/Python%20Script%20Wrapping%20the%20SPARQL%20query.ipynb).
      - CSV Export from GraphDB (Selected Method)
+       
 2. **Understanding RDF Ontology**:
    - Analysed and mapped ontology relationships for star schema development.  
-![image][403739137-1d01df63-6da9-4620-b0fb-b1caeb97fa4b](https://github.com/user-attachments/assets/dd121474-59d5-4523-97fa-1a23f75ea6fe)
+![403739137-1d01df63-6da9-4620-b0fb-b1caeb97fa4b-2](https://github.com/user-attachments/assets/34704735-8f9e-420b-a3a4-877e308aec44)
+
 
 3. **Data Transformation**:
    - Transformed RDF data into a star schema using Python and SPARQL queries.
+     
 4. **Data Modelling**:
-   - Developed a star schema in Power BI.<br/>
+   - Developed a star schema in Power BI.
  ![403741708-ca1c930d-1004-47f0-9875-69afdf248d8f](https://github.com/user-attachments/assets/d93b6072-dede-45e4-be51-f0e187555211)
 
 
 5. **Dashboard Design for NetworkX Visualizations**:
    - Built the Power BI dashboard, including four report pages integrating traditional and networked graph visuals using Networkx.
    - Dashboard demo video.
+     
      [![Watch the video](https://youtu.be/0tWV6iNT5uw?si=LpQ74RMXMau5pGMV)
+     
      Click the image above to watch the project demo on YouTube.
 
     - Page 1: Actor Performance and Centrality 
