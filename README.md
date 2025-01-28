@@ -2,9 +2,7 @@
 Master's Consultancy Project
 
 # Project Overview
----
-
-## This consultancy project, undertaken as part of my Master’s program, involved collaborating with **InformSupply**, an organization focused on revolutionizing business data management through knowledge graph technology. The goal was to bridge the gap between knowledge graphs and traditional business intelligence (BI) tools like Power BI. By transforming RDF data into a star schema, the project enabled seamless integration and advanced data analysis through both networked visualizations and traditional BI dashboards.
+This consultancy project, undertaken as part of my Master’s program, involved collaborating with **InformSupply**, an organization focused on revolutionizing business data management through knowledge graph technology. The goal was to bridge the gap between knowledge graphs and traditional business intelligence (BI) tools like Power BI. By transforming RDF data into a star schema, the project enabled seamless integration and advanced data analysis through both networked visualizations and traditional BI dashboards.
 ---
 
 ## Key Findings 
@@ -81,15 +79,15 @@ As the Quality Manager, I ensured the project adhered to high standards across a
    - Built the Power BI dashboard, including four report pages integrating traditional and networked graph visuals using Networkx.
    - Dashboard demo video.
      
-   https://www.youtube.com/watch?v=0tWV6iNT5uw&t=25s
+  ![image](https://www.youtube.com/watch?v=0tWV6iNT5uw&t=25s)
      
-     Click the image above to watch the project demo on YouTube.
+   Click the image above to watch the project demo on YouTube.
 
-    - Page 1: Actor Performance and Centrality 
+   - Page 1: Actor Performance and Centrality 
   <img width="415" alt="Picture 5" src="https://github.com/user-attachments/assets/25038816-f104-4dd3-ba5e-bafe3c2ae9c2" />
      This page combines traditional bar and column charts with a networked visual to analyse actors with the highest comment counts and their centrality in the movie network. The bar column highlights actors with the most comments, while the bar charts show the centrality rank of top actors. The networked graph adds value by showcasing their connections to specific movies and other actors, providing insights into how their prominence in the network compares to their comment performance.
 
-    - Page 2: Actor Collaborations Across Movies 
+  - Page 2: Actor Collaborations Across Movies 
   <img width="415" alt="Picture 2" src="https://github.com/user-attachments/assets/4db332f1-102f-40f2-ac2d-569d11252ece" />
 This page features a networked graph that visualizes the collaboration network of the top 5 actors, including their comment counts and connections across movies. The graph highlights the strength of collaborations with node size and edge thickness, offering a clear view of actor popularity and co-star relationships.
 
