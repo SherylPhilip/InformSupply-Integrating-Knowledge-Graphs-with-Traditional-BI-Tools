@@ -1,12 +1,16 @@
 # InformSupply: Integrating Knowledge Graphs with Traditional BI Tools
 Master's Consultancy Project
 
-# Project Overview
-This consultancy project, undertaken as part of my Master’s program, involved collaborating with **InformSupply**, an organization focused on revolutionizing business data management through knowledge graph technology. The goal was to bridge the gap between knowledge graphs and traditional business intelligence (BI) tools like Power BI. By transforming RDF data into a star schema, the project enabled seamless integration and advanced data analysis through both networked visualizations and traditional BI dashboards.
+## Project Overview
+
+This consultancy project, undertaken as part of my Master’s program, involved collaborating with InformSupply, an organization focused on revolutionizing business data management through knowledge graph technology. The goal was to bridge the gap between knowledge graphs and traditional business intelligence (BI) tools like Power BI. By transforming RDF data into a star schema, the project enabled seamless integration and advanced data analysis through both networked visualizations and traditional BI dashboards.
+
 ---
 
 ## Key Findings 
+
 The integration of traditional performance metrics with relationship-driven network graphs within a single dashboard provided users with a unified view of data, uncovering deeper insights and connections that are often overlooked in conventional analysis.
+
 --
 ## Key Features
 - **RDF Data Transformation**: Converted RDF data into a star schema format, enabling alignment with relational database structures and optimized compatibility with BI tools.
@@ -91,13 +95,13 @@ As the Quality Manager, I ensured the project adhered to high standards across a
   <img width="415" alt="Picture 2" src="https://github.com/user-attachments/assets/4db332f1-102f-40f2-ac2d-569d11252ece" />
 This page features a networked graph that visualizes the collaboration network of the top 5 actors, including their comment counts and connections across movies. The graph highlights the strength of collaborations with node size and edge thickness, offering a clear view of actor popularity and co-star relationships.
 
-    - Page 3: Actor Versatility 
+ - Page 3: Actor Versatility 
 <img width="415" alt="Picture 3" src="https://github.com/user-attachments/assets/5ea57f7c-49fe-4c49-a2af-3e87a4e2d5d9" />
 This visualization explores actors' versatility across genres and roles. The network graph links actors to movies, genres, and countries, with nodes representing their genre count and role type. This design provides insights into the breadth of an actor's contributions and their connections across the dataset.
 
-    - Page 4: Genre Synergies and Engagement 
+   - Page 4: Genre Synergies and Engagement 
     <img width="415" alt="Picture 4" src="https://github.com/user-attachments/assets/f04152d0-69ed-4e38-a588-74501647c619" />
-This graph focuses on genre popularity and movie engagement. Movies with the highest comment counts are linked to their genres and countries, with node size reflecting comment weight. The network reveals regional genre trends and high-performing movies in an optimized layout.
+   This graph focuses on genre popularity and movie engagement. Movies with the highest comment counts are linked to their genres and countries, with node size reflecting comment weight. The network reveals regional genre trends and high-performing movies in an optimized layout.
 ---
 ## Visualisation Methods Comparison for Reporting
 - Summary of Strengths and Limitations of Visualisation Methods
