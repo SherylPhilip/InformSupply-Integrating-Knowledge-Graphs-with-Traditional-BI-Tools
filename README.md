@@ -1,7 +1,8 @@
 # InformSupply: Integrating Knowledge Graphs with Traditional BI Tools
 Master's Consultancy Project
 
-## Project Overview
+## **Project Overview**
+
 This consultancy project, undertaken as part of my Master’s program, involved collaborating with **InformSupply**, an organization focused on revolutionizing business data management through knowledge graph technology. The goal was to bridge the gap between knowledge graphs and traditional business intelligence (BI) tools like Power BI. By transforming RDF data into a star schema, the project enabled seamless integration and advanced data analysis through both networked visualizations and traditional BI dashboards.
 ---
 
@@ -74,23 +75,23 @@ As the Quality Manager, I ensured the project adhered to high standards across a
 
 5. **Dashboard Design for NetworkX Visualizations**:
    - Built the Power BI dashboard, including four report pages integrating traditional and networked graph visuals using Networkx.
-   - Dashboard demo video. <br/>
-     [![Watch the video](https://youtu.be/0tWV6iNT5uw?si=LpQ74RMXMau5pGMV) <br/>
+   - Dashboard demo video.
+     [![Watch the video](https://youtu.be/0tWV6iNT5uw?si=LpQ74RMXMau5pGMV)
      Click the image above to watch the project demo on YouTube.
 
-    - Page 1: Actor Performance and Centrality <br/>
+    - Page 1: Actor Performance and Centrality 
   <img width="415" alt="Picture 5" src="https://github.com/user-attachments/assets/25038816-f104-4dd3-ba5e-bafe3c2ae9c2" />
      This page combines traditional bar and column charts with a networked visual to analyse actors with the highest comment counts and their centrality in the movie network. The bar column highlights actors with the most comments, while the bar charts show the centrality rank of top actors. The networked graph adds value by showcasing their connections to specific movies and other actors, providing insights into how their prominence in the network compares to their comment performance.
 
-    - Page 2: Actor Collaborations Across Movies <br/>
+    - Page 2: Actor Collaborations Across Movies 
   <img width="415" alt="Picture 2" src="https://github.com/user-attachments/assets/4db332f1-102f-40f2-ac2d-569d11252ece" />
 This page features a networked graph that visualizes the collaboration network of the top 5 actors, including their comment counts and connections across movies. The graph highlights the strength of collaborations with node size and edge thickness, offering a clear view of actor popularity and co-star relationships.
 
-    - Page 3: Actor Versatility <br/>
+    - Page 3: Actor Versatility 
 <img width="415" alt="Picture 3" src="https://github.com/user-attachments/assets/5ea57f7c-49fe-4c49-a2af-3e87a4e2d5d9" />
 This visualization explores actors' versatility across genres and roles. The network graph links actors to movies, genres, and countries, with nodes representing their genre count and role type. This design provides insights into the breadth of an actor's contributions and their connections across the dataset.
 
-    - Page 4: Genre Synergies and Engagement <br/>
+    - Page 4: Genre Synergies and Engagement 
     <img width="415" alt="Picture 4" src="https://github.com/user-attachments/assets/f04152d0-69ed-4e38-a588-74501647c619" />
 This graph focuses on genre popularity and movie engagement. Movies with the highest comment counts are linked to their genres and countries, with node size reflecting comment weight. The network reveals regional genre trends and high-performing movies in an optimized layout.
 ---
