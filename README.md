@@ -87,7 +87,8 @@ As the Quality Manager, I ensured the project adhered to high standards across a
      Click the image above to watch the project demo on YouTube.
 
    - Page 1: Actor Performance and Centrality 
-  <img width="415" alt="Picture 5" src="https://github.com/user-attachments/assets/25038816-f104-4dd3-ba5e-bafe3c2ae9c2" />  This page combines traditional bar and column charts with a networked visual to analyse actors with the highest comment counts and their centrality in the movie network. The bar column highlights actors with the most comments, while the bar charts show the centrality rank of top actors. The networked graph adds value by showcasing their connections to specific movies and other actors, providing insights into how their prominence in the network compares to their comment performance.
+  <img width="415" alt="Picture 5" src="https://github.com/user-attachments/assets/25038816-f104-4dd3-ba5e-bafe3c2ae9c2" /> <br/>
+This page combines traditional bar and column charts with a networked visual to analyse actors with the highest comment counts and their centrality in the movie network. The bar column highlights actors with the most comments, while the bar charts show the centrality rank of top actors. The networked graph adds value by showcasing their connections to specific movies and other actors, providing insights into how their prominence in the network compares to their comment performance.
 
   - Page 2: Actor Collaborations Across Movies 
   <img width="415" alt="Picture 2" src="https://github.com/user-attachments/assets/4db332f1-102f-40f2-ac2d-569d11252ece" /> <br/>
