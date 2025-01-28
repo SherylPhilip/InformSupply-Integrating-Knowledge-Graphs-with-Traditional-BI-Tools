@@ -2,43 +2,48 @@
 Master's Consultancy Project
 
 ## Project Overview
-This project was conducted as part of my Master's program and involved collaboration with **InformSupply**, a client focusing on transforming business data management using innovative knowledge graph technology. The aim was to integrate knowledge graphs with traditional BI tools, such as Power BI, to enhance data visualization and uncover hidden relationships. The project transformed RDF data into a star schema for seamless integration, enabling advanced analysis using both networked and traditional visuals.
-
+This consultancy project, undertaken as part of my Master’s program, involved collaborating with **InformSupply**, an organization focused on revolutionizing business data management through knowledge graph technology. The goal was to bridge the gap between knowledge graphs and traditional business intelligence (BI) tools like Power BI. By transforming RDF data into a star schema, the project enabled seamless integration and advanced data analysis through both networked visualizations and traditional BI dashboards.
 ---
 
 ## Key Findings 
-By combining traditional performance metrics with relationship-driven networked graphs in a single dashboard, users gain a clear and comprehensive view of the data, revealing deeper insights and connections.
+The integration of traditional performance metrics with relationship-driven network graphs within a single dashboard provided users with a unified view of data, uncovering deeper insights and connections that are often overlooked in conventional analysis.
 
 ## Key Features
-- **RDF Data Transformation**: Converted RDF data into a star schema, aligning it with relational database structures for BI integration.
-- **Power BI Integration**: Explored multiple integration methods, selecting CSV export as the final approach for performance optimisation.
-- **Interactive Dashboards**: Built two dashboards, one using ZoomCharts and another with Python NetworkX, to showcase networked graphs alongside traditional visuals.
-- **Visualization Methods Comparison**: Summarised the strengths and limitations of ZoomCharts, NetworkX, and GraphDB built-in visuals.
-- **User Interaction Testing**: Conducted testing to validate usability and collect feedback from users. Participants valued the simplicity of traditional charts for straightforward tasks and appreciated the depth provided by networked graphs for more complex analyses.
+- **RDF Data Transformation**: Converted RDF data into a star schema format, enabling alignment with relational database structures and optimized compatibility with BI tools.
+- **Power BI Integration**: Explored multiple integration methods, ultimately selecting CSV export from GraphDB for its simplicity and performance benefits.
+- **Interactive Dashboards**: Developed two interactive dashboards—one utilizing ZoomCharts and the other employing Python NetworkX—to display both traditional and networked graph visuals side by side.
+- **Visualization Methods Comparison**: Analyzed the strengths and limitations of various visualization tools, including ZoomCharts, NetworkX, and GraphDB’s built-in graph visuals.
+- **User Interaction Testing**: Conducted comprehensive usability testing to validate dashboard effectiveness. Feedback revealed that users appreciated the simplicity of traditional charts for basic queries and the depth of network graphs for exploring complex relationships.
 
 ## Project Posters and Brochure for Expo
-- [Technical Poster](https://github.com/Brenda-Chuang/Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/InformSupply%20Project%20Poster_finalised_2024.10.09.pdf)
-- [Emotional Poster](https://github.com/Brenda-Chuang/Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/Emotional%20Infograph%20-%20InformSupply_2024.10.09.pdf)
-- [Brochure for Guests](https://github.com/Brenda-Chuang/Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/InformSupply_Capstone%20Project_Brochure_2024.10.09.pdf)
+- [Technical Poster](https://github.com/SherylPhilip/InformSupply-Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/InformSupply%20Project%20Poster_finalised_2024.10.09.pdf)
+- [Emotional Poster](https://github.com/SherylPhilip/InformSupply-Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/Emotional%20Infograph%20-%20InformSupply_2024.10.09.pdf)
+- [Brochure for Guests](https://github.com/SherylPhilip/InformSupply-Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/InformSupply_Capstone%20Project_Brochure_2024.10.09.pdf)
 
 ## Project Objectives
-The purpose of this project is to explore integration and visualisation methods for combining knowledge graphs with traditional BI tools. By using an open-source movie dataset, the project provides a practical demonstration of how RDF data can be transformed, integrated, and visualised in Power BI.
+The primary objective was to explore and demonstrate methods for integrating knowledge graphs with traditional BI tools. Using an open-source movie dataset, the project provided a practical showcase of how RDF data could be transformed, integrated, and visualized effectively in Power BI.
 
 ## Dataset
-Dataset Used: An open-source [movie dataset](https://github.com/Brenda-Chuang/Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/movies.ttl) was selected to simulate real-world scenarios and provide a clear context for testing integration and visualisation approaches.
-The dataset includes details about movies, actors, genres, and related attributes, offering a rich source for evaluating visualisation methods.
+Dataset Used: An open-source [movie dataset](https://github.com/SherylPhilip/InformSupply-Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/movies.ttl) was selected to simulate real-world scenarios and provide a clear context for testing integration and visualisation approaches.
+The dataset included rich information about movies, actors, genres, and their relationships, offering a comprehensive test case for evaluating integration and visualization approaches.
 
 ---
 
 ## My Role
 ### **Technical Contributions**
-- Explored and developed Power BI integration using multiple methods.
-- Designed and implemented the RDF-to-star schema transformation process and data modelling.
-- Built an interactive Power BI dashboard, using ZoomCharts visuals for networked graphs in all report pages.
+- **GraphDB Deployment**: Configured GraphDB in Docker for efficient RDF data management and SPARQL querying.
+- **RDF Data Transformation**: Converted RDF data into a star schema using SPARQL and Python for seamless Power BI integration.
+- **Interactive Dashboards**: Developed Power BI dashboards with Python NetworkX for traditional and networked visualizations.
+- **Visualization Implementation**: Created and embedded NetworkX network graphs in Power BI to showcase actor collaborations and genre connections.
 
-### **Project Leadership**
-- Led the project team, managed timelines, and ensured deliverables aligned with client goals.
-- Collaborated with stakeholders, including the client and supervisor, to achieve project objectives.
+
+### **Quality Managerp**
+As the Quality Manager, I ensured the project adhered to high standards across all phases, from planning to execution. My responsibilities included:
+
+- **Task Monitoring** : Oversaw task progress to ensure timely completion of milestones, such as GraphDB deployment, data transformation, and dashboard creation.
+- **Documentation and Consistency** : Maintained comprehensive and organized documentation, ensuring clear communication of methods, progress, and findings to the team and stakeholders.
+- **User Testing Oversight**: Designed and facilitated the user interaction testing process, ensuring actionable feedback was collected and incorporated into the dashboards for usability improvements.
+- **Expo Readiness** : Verified the quality and completeness of all deliverables, including posters, dashboards, and brochures, for a professional and engaging presentation at the Expo.
 
 ---
 
@@ -49,49 +54,49 @@ The dataset includes details about movies, actors, genres, and related attribute
 - **BI Tool**: Power BI
 - **Star Schema Development**: Relational database modeling
 
-### **Implementation Steps (My Contributions Only)**
-1. **Integration Method Exploration**:
+### **Implementation Steps (My Contributions and teammate(Brenda Chuang))**
+1. **Integration Method ExplorationBrenda Chuang)**:
    - Evaluated:
      - JDBC-ODBC Gateway
      - Python Script Wrapping SPARQL Queries. <br/>
-       Documented the process in [Python Script Wrapping the SPARQL query.ipynb](https://github.com/Brenda-Chuang/Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/Python%20Script%20Wrapping%20the%20SPARQL%20query.ipynb).
+       Documented the process in [Python Script Wrapping the SPARQL query.ipynb](https://github.com/SherylPhilip/InformSupply-Integrating-Knowledge-Graphs-with-Traditional-BI-Tools/blob/main/Python%20Script%20Wrapping%20the%20SPARQL%20query.ipynb).
      - CSV Export from GraphDB (Selected Method)
 2. **Understanding RDF Ontology**:
-   - Analysed and mapped ontology relationships for star schema development.
-   ![image](https://github.com/user-attachments/assets/1d01df63-6da9-4620-b0fb-b1caeb97fa4b)
+   - Analysed and mapped ontology relationships for star schema development.  
+![image][403739137-1d01df63-6da9-4620-b0fb-b1caeb97fa4b](https://github.com/user-attachments/assets/dd121474-59d5-4523-97fa-1a23f75ea6fe)
 
 3. **Data Transformation**:
    - Transformed RDF data into a star schema using Python and SPARQL queries.
 4. **Data Modelling**:
    - Developed a star schema in Power BI.<br/>
-   ![image](https://github.com/user-attachments/assets/ca1c930d-1004-47f0-9875-69afdf248d8f)
+ ![403741708-ca1c930d-1004-47f0-9875-69afdf248d8f](https://github.com/user-attachments/assets/d93b6072-dede-45e4-be51-f0e187555211)
 
-5. **Dashboard Design**:
-   - Built the Power BI dashboard, including four report pages integrating traditional and networked graph visuals using ZoomCharts.
+
+5. **Dashboard Design for NetworkX Visualizations**:
+   - Built the Power BI dashboard, including four report pages integrating traditional and networked graph visuals using Networkx.
    - Dashboard demo video. <br/>
-     [![Watch the video](https://img.youtube.com/vi/W6pE34_IT0A/0.jpg)](https://www.youtube.com/watch?v=W6pE34_IT0A) <br/>
+     [![Watch the video](https://youtu.be/0tWV6iNT5uw?si=LpQ74RMXMau5pGMV) <br/>
      Click the image above to watch the project demo on YouTube.
 
     - Page 1: Actor Performance and Centrality <br/>
-     ![image](https://github.com/user-attachments/assets/1dd47013-9a37-4016-9b22-76d6d0b8fa05) <br/>
+  <img width="415" alt="Picture 5" src="https://github.com/user-attachments/assets/25038816-f104-4dd3-ba5e-bafe3c2ae9c2" />
      This page combines traditional bar and column charts with a networked visual to analyse actors with the highest comment counts and their centrality in the movie network. The bar column highlights actors with the most comments, while the bar charts show the centrality rank of top actors. The networked graph adds value by showcasing their connections to specific movies and other actors, providing insights into how their prominence in the network compares to their comment performance.
 
     - Page 2: Actor Collaborations Across Movies <br/>
-     ![image](https://github.com/user-attachments/assets/d9147df9-8bd9-4d71-914c-78960f0406f6) <br/>
-     This page uses traditional charts to show which actors have acted in the most movies. The networked graph enhances the analysis by revealing actor collaborations within specific movie genres, visually mapping how frequently they co-star in the same movies. Together, they offer a deeper understanding of the relationships between actors and their levels of participation in different genres.
+  <img width="415" alt="Picture 2" src="https://github.com/user-attachments/assets/4db332f1-102f-40f2-ac2d-569d11252ece" />
+This page features a networked graph that visualizes the collaboration network of the top 5 actors, including their comment counts and connections across movies. The graph highlights the strength of collaborations with node size and edge thickness, offering a clear view of actor popularity and co-star relationships.
 
     - Page 3: Actor Versatility <br/>
-     ![image](https://github.com/user-attachments/assets/0b9d0345-153d-4cee-8f3a-856836f0462a) <br/>
-     The bar chart summarises the number of genres top actors have participated in, while a heatmap visualises how many times they appeared in each genre. The networked graph adds another dimension, showing clusters of actors organised by genre participation, which helps identify which actors are more versatile or specialized in certain genres. This combination offers both a high-level overview and a detailed look at actor-genre relationships. 
+<img width="415" alt="Picture 3" src="https://github.com/user-attachments/assets/5ea57f7c-49fe-4c49-a2af-3e87a4e2d5d9" />
+This visualization explores actors' versatility across genres and roles. The network graph links actors to movies, genres, and countries, with nodes representing their genre count and role type. This design provides insights into the breadth of an actor's contributions and their connections across the dataset.
 
     - Page 4: Genre Synergies and Engagement <br/>
-     ![image](https://github.com/user-attachments/assets/3319c736-c73e-43ed-814f-12e434d3fc25) <br/>
-     This page presents genre-movie connections across countries using bar and pie charts to show the most popular movies and genres by comment count. The networked graph maps out the relationships between countries, genres, and movies, providing a comprehensive view of how different genres perform across various countries.
-
+    <img width="415" alt="Picture 4" src="https://github.com/user-attachments/assets/f04152d0-69ed-4e38-a588-74501647c619" />
+This graph focuses on genre popularity and movie engagement. Movies with the highest comment counts are linked to their genres and countries, with node size reflecting comment weight. The network reveals regional genre trends and high-performing movies in an optimized layout.
 ---
 ## Visualisation Methods Comparison for Reporting
 - Summary of Strengths and Limitations of Visualisation Methods
-  ![image](https://github.com/user-attachments/assets/05f50ebc-24ab-40d6-97ea-903fc081bf96)
+  ![image]![403794555-05f50ebc-24ab-40d6-97ea-903fc081bf96](https://github.com/user-attachments/assets/a001b3dc-8b26-46be-9f71-c6ea31502b33)
 
 
 
