@@ -1,7 +1,7 @@
 # InformSupply: Integrating Knowledge Graphs with Traditional BI Tools
 Master's Consultancy Project
 
-## **Project Overview**
+**Project Overview**
 
 This consultancy project, undertaken as part of my Master’s program, involved collaborating with **InformSupply**, an organization focused on revolutionizing business data management through knowledge graph technology. The goal was to bridge the gap between knowledge graphs and traditional business intelligence (BI) tools like Power BI. By transforming RDF data into a star schema, the project enabled seamless integration and advanced data analysis through both networked visualizations and traditional BI dashboards.
 ---
@@ -38,7 +38,7 @@ The dataset included rich information about movies, actors, genres, and their re
 - **Visualization Implementation**: Created and embedded NetworkX network graphs in Power BI to showcase actor collaborations and genre connections.
 
 
-### **Quality Managerp**
+### **Quality Manager**
 As the Quality Manager, I ensured the project adhered to high standards across all phases, from planning to execution. My responsibilities included:
 
 - **Task Monitoring** : Oversaw task progress to ensure timely completion of milestones, such as GraphDB deployment, data transformation, and dashboard creation.
